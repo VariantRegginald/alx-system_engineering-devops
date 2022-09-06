@@ -1,1 +1,1 @@
-a script that prints the absolute pathname of the working directory
+display the content list of your directory
