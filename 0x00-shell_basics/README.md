@@ -1,1 +1,2 @@
-display the content list of your directory
+# alx-system_engineering-devops
+##  shell projecct to print absolute path to the current working directory
